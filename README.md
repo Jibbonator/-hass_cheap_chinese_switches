@@ -3,9 +3,9 @@
 I´m not a Programmer myself. I created this only using chatGPT
 
 This custom integration supports various PoE switches commonly found in budget devices.
-I Used a Keeplink KP-9000-9XHML-X and a KP-9000-9XHPML-X-AC.
-Maybe i cant work with other chea China Switches too.
-I wanted a way to Switch Poe ON/from from Homeassistant.
+I used a Keeplink KP-9000-9XHML-X and a KP-9000-9XHPML-X-AC.
+Maybe it can work with other cheap China Switches too.
+I wanted a way to Switch Poe ON/from from Homeassistant and see the Poe consumption.
 
 This is the actual state:
 
