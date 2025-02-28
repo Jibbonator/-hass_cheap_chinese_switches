@@ -2,13 +2,13 @@
     "domain": "cheap_chinese_switches",
     "name": "Cheap Chinese Switches",
     "version": "1.0.0",
-    "documentation": "https://github.com/deinusername/cheap_chinese_switches",
+    "documentation": "https://github.com/Jibbonator/cheap_chinese_switches",
     "requirements": [
       "requests"
     ],
     "dependencies": [],
     "codeowners": [
-      "@deinusername"
+      "@Jibbonator"
     ],
     "config_flow": true
   }
