@@ -80,3 +80,25 @@ This project is licensed under the MIT License.
 ## Author
 
 [@Jibbonator](https://github.com/Jibbonator)
+
+
+
+Here are some Pictures:
+
+
+The Look of the WebGui
+![Screenshot 2025-02-28 194831](https://github.com/user-attachments/assets/d19dae85-f24f-48aa-9b93-fabebbb28a15)
+
+Configuration
+
+![Screenshot 2025-02-28 160018](https://github.com/user-attachments/assets/308bb417-3751-4657-b7f9-c789f8e069e9)
+
+With POE
+![Screenshot 2025-02-28 193502](https://github.com/user-attachments/assets/30f348f7-04ab-4a06-a574-5663f0da2184)
+
+Without POE
+![Screenshot 2025-02-28 193527](https://github.com/user-attachments/assets/fd182a85-b7b0-456e-89b2-4bbd658c2955)
+
+The Attributes
+
+![Screenshot 2025-02-28 195512](https://github.com/user-attachments/assets/ed9ae93b-a1aa-4742-8d48-7e603158f735)
